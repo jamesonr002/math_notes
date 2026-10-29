@@ -4,5 +4,6 @@ This repository contains all of the notes I've taken in my math classes. In the 
 
 ## Map
 ### Probability and Statistics, fall '26
+1. Probability distributions
 ### Introduction to Proofs, fall '26
 
