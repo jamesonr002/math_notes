@@ -107,9 +107,7 @@ each with probability $q$, and 2 successes, each with probability $p$.
   $ p(y) = binom(n, y) p^y q^(n-y) $
 ]
 
-We can use R to compute binomial probabilities.
-
-To find $P(Y = y)$ in $n$ trials with success probability $p$:
+In R, to find $P(Y = y)$ in $n$ trials with success probability $p$:
 ```r
 dbinom(n, y, p)
 ```
